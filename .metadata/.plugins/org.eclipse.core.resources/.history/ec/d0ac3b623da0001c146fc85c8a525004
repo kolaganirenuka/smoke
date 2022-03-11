@@ -1,0 +1,12 @@
+package stringspractice;
+
+public class Scharatpos {
+
+	public static void main(String[] args) {
+		String s="software test engineer";
+		char ch = s.charAt(8);
+		System.out.println(ch);
+
+	}
+
+}

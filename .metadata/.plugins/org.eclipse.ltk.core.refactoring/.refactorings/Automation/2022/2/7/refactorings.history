@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;geckodriver.exe&apos; to &apos;com_Create_org&apos;&#x0D;&#x0A;- Original project: &apos;Automation&apos;&#x0D;&#x0A;- Destination element: &apos;com_Create_org&apos;&#x0D;&#x0A;- Original element: &apos;geckodriver.exe&apos;" description="Copy file" destination="=com_Create_org" element1="driver/geckodriver-v0.30.0-win64/geckodriver.exe" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644218781901" units="0" version="1.0"/>
+</session>

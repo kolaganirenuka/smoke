@@ -1,0 +1,13 @@
+package qsp;
+
+public class Stringpra {
+	public static void main(String[] args) {
+		String s="java dev";
+	}
+
+	 {
+		
+
+	}
+
+}

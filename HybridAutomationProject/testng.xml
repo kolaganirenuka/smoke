@@ -1,0 +1,9 @@
+<suite name="Suite">
+  <test  name="RaghavTest">
+    <classes>
+      <class name="com.actitime.report.VerifyReportsPage"/>
+      <class name="com.actitime.task.VerifyTaskPage"/>
+    </classes>
+  </test>
+   
+</suite> 

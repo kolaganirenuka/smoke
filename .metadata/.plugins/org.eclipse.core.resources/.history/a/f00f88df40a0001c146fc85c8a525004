@@ -1,0 +1,18 @@
+package stringspractice;
+
+public class Scountas {
+
+	public static void main(String[] args) {
+		String s="java dev";
+		int count=0;
+		for(int i=1;i<=s.length();i++) {
+			char ch = s.charAt(i);
+			if(ch=='a') {
+				count++;
+			}
+		}
+		System.out.println(count);
+
+	}
+
+}
